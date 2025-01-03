@@ -176,7 +176,7 @@ This handler fires when the user's mouse cursor leaves a LineSeries, and provide
 LineSeries
 ...
   onSeriesMouseOut={(event)=>{
-  	// does something on mouse over
+  	// does something on mouse out
   	// you can access the value of the event
   }}
 ```
