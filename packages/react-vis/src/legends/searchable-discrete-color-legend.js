@@ -40,7 +40,7 @@ const defaultProps = {
       item =>
         String(item.title || item)
           .toLowerCase()
-          .indexOf(s) !== -1
+          .indexOf(s.toLowerCase()) !== -1
     )
 };
 
