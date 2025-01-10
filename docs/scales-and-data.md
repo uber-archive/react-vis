@@ -63,7 +63,7 @@ For example, for x and y:
 
 All of this is sensible most of the time.
 
-Scales transform each datapoint into visual characteristics for a mark, so, for a given attribute, they only work if the corresponding data property exists. The property in the datapoint MUST have the same name as the attribute. You can have all the properties you want in your datapoint object, but to position the mark from left to right, you NEED a x property.
+Scales transform each datapoint into visual characteristics for a mark, so, for a given attribute, they only work if the corresponding data property exists. The property in the datapoint MUST have the same name as the attribute. You can have all the properties you want in your datapoint object, but to position the mark from left to right, you NEED an x property.
 
 ### Available scales by series type:
 
