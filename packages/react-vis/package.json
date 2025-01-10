@@ -74,7 +74,7 @@
     "enzyme-to-json": "^3.5.0",
     "eslint-plugin-jest": "^23.13.2",
     "jest": "^25.5.4",
-    "jsdom": "^9.9.1",
+    "jsdom": "^16.5.0",
     "node-sass": "^4.9.3",
     "prettier": "^1.14.2",
     "react": "^17.0.2",
